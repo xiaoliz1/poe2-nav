@@ -13,7 +13,13 @@
   icon: fa fa-book
   link: https://blog.996521.xyz/archives/S7ayKHBR
 #    - name: About
-#      url: "/about/"
+- item: 文字教程区(待写)
+  icon: fa fa-book
+  link: ""
+  list:
+    - name: 其实是我一个人写的有点慢
+      url:     
+
 - item: 我的b站主页
   icon: fa fa-book
   link: https://space.bilibili.com/1153999445?spm_id_from=333.1007.0.0 
