@@ -7,6 +7,22 @@
   icon: fa fa-book
   link: https://poe2-nav.996521.xyz/
 
+
+
+- item: 图片区
+  icon: fa fa-book
+  list: https://blog.996521.xyz/archives/S7ayKHBR
+#    - name: About
+#      url: "/about/"
+- item: 我的b站主页
+  icon: fa fa-book
+  link: https://space.bilibili.com/1153999445?spm_id_from=333.1007.0.0 
+
+
+- item: QQ群1022808702 密码是锦鲤运气好啊
+  icon: fa fa-book
+  link: https://qm.qq.com/q/tAd9ijrOfY
+
 #- item: 关于
 #  icon: fa fa-cog
 #  link: ""
