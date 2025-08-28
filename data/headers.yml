@@ -9,7 +9,9 @@
 
 - item: 图片教程
   icon: fa fa-book
-  link: https://poe2-nav.996521.xyz/
+  list: "/about/"
+#    - name: About
+#      url: "/about/"
 #- item: 关于
 #  icon: fa fa-cog
 #  link: ""

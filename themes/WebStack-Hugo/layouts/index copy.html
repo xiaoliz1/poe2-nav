@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="home-copy">
+  <!-- 复制原主页内容结构 -->
+  {{ partial "header.html" . }}
+  <main>
+    {{ .Content }}
+    <!-- 添加差异内容 -->
+    <section class="new-section">...</section>
+  </main>
+</div>
+{{ end }}
