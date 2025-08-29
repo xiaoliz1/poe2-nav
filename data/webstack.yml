@@ -26,7 +26,7 @@
     - title: 仓库转换为离线仓库
       logo: Poe2 国际服.png
       url: https://pathofexile2.com/my-account/overview
-      description: 皮肤幻化购买        
+      description: 仓库转换为离线仓库        
 
 
 - taxonomy: poe2社区
@@ -91,7 +91,7 @@
           url: https://maxroll.gg/poe2/planner/maxroll-builds
           description: 国外bd站     
         - title: mobalytics
-          logo: mobalytics.gg.svg
+          logo: mobalytics.ico
           url: https://mobalytics.gg/poe-2/builds
           description: 国外bd站                
     - term: 0.3BD简单搬运 
