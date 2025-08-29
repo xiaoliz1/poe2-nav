@@ -86,6 +86,14 @@
           logo: reddit-copy.png
           url: https://www.reddit.com/r/pathofexile2builds
           description: reddit论坛
+        - title: maxroll.gg
+          logo: maxroll.gg.ico
+          url: https://maxroll.gg/poe2/planner/maxroll-builds
+          description: 国外bd站     
+        - title: mobalytics
+          logo: mobalytics.gg.svg
+          url: https://mobalytics.gg/poe-2/builds
+          description: 国外bd站                
     - term: 0.3BD简单搬运 
       links:          
         - title: 0.3BD简单搬运
