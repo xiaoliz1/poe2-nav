@@ -22,7 +22,11 @@
     - title: poe2皮肤幻化商店
       logo: Poe2 国际服.png
       url: https://pathofexile2.com/shop
-      description: 皮肤幻化购买  
+      description: 皮肤幻化购买 
+    - title: 仓库转换为离线仓库
+      logo: Poe2 国际服.png
+      url: https://pathofexile2.com/my-account/overview
+      description: 皮肤幻化购买        
 
 
 - taxonomy: poe2社区
